@@ -1,0 +1,1 @@
+![](/assets/bcgx_logo.png)
