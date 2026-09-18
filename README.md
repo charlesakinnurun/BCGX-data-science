@@ -1,3 +1,4 @@
+![BCG X Data Science](/assets/bcgx_logo.png)
 # BCG Data Science — PowerCo Customer Churn Prediction & Retention Analysis
 
 A complete end-to-end data science case study from the **BCG X Data Science
