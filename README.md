@@ -1,7 +1,7 @@
 # BCG Data Science — PowerCo Customer Churn Prediction & Retention Analysis
 
 A complete end-to-end data science case study from the **BCG X Data Science
-job simulation**: predict which energy customers are about to churn, test the
+Virtual Experience Programme**: predict which energy customers are about to churn, test the
 client's hypothesis that *churn is driven by price sensitivity*, and estimate
 the value of a retention discount.
 
